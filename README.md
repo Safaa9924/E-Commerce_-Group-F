@@ -1,4 +1,7 @@
-# E-Commerce_-Group-F
+# E-Commerce. (Group-F)
+We are group F. Our members are Hagar Gamal, Farah Amr, Eman Mahomoud, Basant Wael, and Safaa Samy.
+This project is our graduate project from the Digital Egypt Pioneers Initiative—DEPI · Internship.
+
 This repository contains the code and resources for an E-commerce Product Dashboard. The project focuses on analyzing product data to provide insights into product categories, stock levels. 
 Key Features: Data Analysis: Exploring product data to identify patterns and trends.  
 Dashboard: Visual representation of product information.
